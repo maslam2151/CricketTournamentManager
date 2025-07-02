@@ -7,7 +7,7 @@ Features
 
  Add teams with 11 players via interactive input  
  Automatically schedule group matches  
- Record match winners and award points  
+ Record match winners and award points   
  Auto-schedule final match between top 2 teams  
  Display leaderboard sorted by points
 
