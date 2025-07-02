@@ -1,20 +1,19 @@
-# 🏏 Cricket Tournament Manager (Java Console App)
+Cricket Tournament Manager (Java Console App)
 
 A Java console-based application to manage a mini cricket tournament. Built in Java using object-oriented principles, the app allows team creation, match scheduling, leaderboard tracking, and an automatic final between the top two teams.
 
----
 
-## 🚀 Features
+Features
 
-✅ Add teams with 11 players via interactive input  
-✅ Automatically schedule group matches  
-✅ Record match winners and award points  
-✅ Auto-schedule final match between top 2 teams  
-✅ Display leaderboard sorted by points
+ Add teams with 11 players via interactive input  
+ Automatically schedule group matches  
+ Record match winners and award points  
+ Auto-schedule final match between top 2 teams  
+ Display leaderboard sorted by points
 
----
 
-## 📁 Project Structure
+
+ Project Structure
 
 CricketTournamentManager/
 ├── src/
