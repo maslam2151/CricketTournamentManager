@@ -18,14 +18,23 @@ Features
 CricketTournamentManager/
 
 ├── src/
+
 │ ├── model/
+
 │ │ ├── Player.java
+
 │ │ ├── Team.java
+
 │ │ └── Match.java
+
 │ ├── service/
+
 │ │ └── TournamentManager.java
+
 │ └── Main.java
+
 ├── README.md
+
 └── .gitignore
 
 
