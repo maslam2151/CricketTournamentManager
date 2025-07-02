@@ -11,6 +11,26 @@ Features
  Auto-schedule final match between top 2 teams  
  Display leaderboard sorted by points
 
+Project Structure
+
+CricketTournamentManager
+src
+model
+
+│ │ ├── Player.java
+│ │ ├── Team.java
+
+│ │ └── Match.java
+
+│ ├── service/
+
+│ │ └── TournamentManager.java
+
+│ └── Main.java
+
+├── README.md
+
+└── .gitignore
 
 
  
