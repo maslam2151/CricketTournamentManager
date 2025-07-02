@@ -14,23 +14,24 @@ Features
 Project Structure
 
 CricketTournamentManager
+
 src
+
 model
 
-│ │ ├── Player.java
-│ │ ├── Team.java
 
-│ │ └── Match.java
+Player.java
+Team.java
+Match.java
 
-│ ├── service/
+service/
+TournamentManager.java
 
-│ │ └── TournamentManager.java
+Main.java
 
-│ └── Main.java
+README.md
 
-├── README.md
-
-└── .gitignore
+.gitignore
 
 
  
